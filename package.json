@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Maneesh-Gona/autoVoice-bot.git"
+    "url": "git+https://github.com/Yingste/autoVoice-bot.git"
   },
   "author": "Maneesh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Maneesh-Gona/autoVoice-bot/issues"
+    "url": "https://github.com/Yingste/autoVoice-bot/issues"
   },
-  "homepage": "https://github.com/Maneesh-Gona/autoVoice-bot#readme",
+  "homepage": "https://github.com/Yingste/autoVoice-bot#readme",
   "dependencies": {
     "discord.js": "^8.0.0"
   }
